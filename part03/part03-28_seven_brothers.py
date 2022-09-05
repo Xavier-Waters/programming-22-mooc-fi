@@ -1,0 +1,10 @@
+# Write your solution here
+# You can test your function by calling it within the following block
+def seven_brothers():
+	print("Aapo")
+	print("Eero")
+	print("Juhani")
+	print("Lauri")
+	print("Simeoni")
+	print("Timo")
+	print("Tuomas")
